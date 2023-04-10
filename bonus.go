@@ -29,7 +29,3 @@ func main() {
 
 	fmt.Println(indexes)
 }
-
-cd
-
-ab
